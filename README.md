@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="" target="blank"><img align="center" src="/github/linkedin.png" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/manan-developer/" target="blank"><img align="center" src="" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/manan-developer/" target="blank"><img align="center" src="/github/linkedin.png" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://github.com/Manan332211" target="blank"><img align="center" src="/github/github.png" alt="github" height="30" width="40" /></a>
   <a href="mailto:mananmakwana8600@gmail.com" target="blank"><img align="center" src="/github/mail.png" alt="mail" height="30" width="40" />mananmakwana8600@gmail.com</a>
   <a href="tel:+91 9664624116" target="blank"><img align="center" src="/github/whatsapp.png" alt="whatsappp" height="30" width="40" />+91 9664624116</a>
 </p>
