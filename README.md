@@ -13,13 +13,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/manan-developer/" target="blank"><img align="center" src="/github/linkedin.png" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/Manan332211" target="blank"><img align="center" src="/github/github.png" alt="github" height="30" width="40" /></a>
-  <a href="mailto:mananmakwana8600@gmail.com" target="blank"><img align="center" src="/github/mail.png" alt="mail" height="30" width="40" />mananmakwana8600@gmail.com</a>
-  <a href="tel:+91 9664624116" target="blank"><img align="center" src="/github/whatsapp.png" alt="whatsappp" height="30" width="40" />+91 9664624116</a>
+    <a href="mailto:mananmakwana8600@gmail.com" target="blank"><img align="center" src="/github/mail.png" alt="mail" height="30" width="40" /></a>
+  <a href="tel:+91 9664624116" target="blank"><img align="center" src="/github/whatsapp.png" alt="whatsappp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.laravel.com" target="_blank" rel="noreferrer">
     <img class="w-12" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
   </a>
@@ -68,7 +67,7 @@
 
 <div align="center">
 <p>
-  <img align="center" src="/github/webpage.jpg" alt="manan-makwana"/>
+  <img align="center" src="/github/webpage.jpg" alt="manan-makwana"width="480" height="480"/>
 </p>
 </div>
 
