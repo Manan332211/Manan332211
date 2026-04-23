@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-<video src="/github/coding.webm" width="100%" height="150" autoplay loop muted playsinline></video>
 <!-- <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="100%" height="200">  -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+To+My+Github+Profile!)](https://git.io/typing-svg)
@@ -53,7 +52,7 @@
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
   
 ### If you appreciate resources please consider supporting me. Thank you!
-<a href="" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></br>
+<a href="https://github.com/Manan332211" target="_blank"><img src="/github/followme.png" alt="followme" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></br>
 ![](https://komarev.com/ghpvc/?username=mananmakwana1040&color=0ca4a5)
 
 </div>
