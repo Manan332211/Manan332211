@@ -77,10 +77,10 @@
 
 
 <div align="center">
-    <img src="/github/propease.png" alt="Github Propease" width="30%" height="400"> &nbsp;
+    <img src="/github/propease.jpeg"  alt="Github Propease" width="30%" height="400"> &nbsp;
     <img src="/github/mmportfolio.png" alt="Github Mmportfolio" width="30%" height="400"> &nbsp;
     <img src="/github/monocms.jpeg" alt="Github Monocms" width="30%" height="400">
-</div>
+</div></br></br>
 
   <div align="center">
     <img align="center" src="/github/webpage.jpg" alt="manan-makwana" width="480" height="480"/>
