@@ -77,9 +77,15 @@
 
 
 <div align="center">
-    <img src="/github/propease.jpeg"  alt="Github Propease" width="30%" height="400"> &nbsp;
-    <img src="/github/mmportfolio.png" alt="Github Mmportfolio" width="30%" height="400"> &nbsp;
-    <img src="/github/monocms.jpeg" alt="Github Monocms" width="30%" height="400">
+    <a href="https://propease.in/" target="_blank" rel="noreferrer">
+    <img src="/github/propease.jpeg"  alt="Propease" width="30%" height="400"> &nbsp;
+    </a>
+    <a href="https://mmportfolio.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="/github/mmportfolio.png" alt="MM Portfolio" width="30%" height="400"> &nbsp;
+    </a>
+    <a href="https://monocms.com/" target="_blank" rel="noreferrer">
+    <img src="/github/monocms.jpeg" alt="MonoCMS" width="30%" height="400">
+    </a>
 </div></br></br>
 
   <div align="center">
