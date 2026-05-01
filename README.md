@@ -13,10 +13,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/manan-developer/" target="blank">
     <img align="center" src="/github/linkedin.png" alt="linkedin" height="30" width="40" />
-  </a>
+  </a> &nbsp;&nbsp; 
   <a href="mailto:mananmakwana8600@gmail.com" target="blank">
     <img align="center" src="/github/mail.png" alt="mail" height="30" width="40" />
-  </a>
+  </a> &nbsp;&nbsp;
   <a href="tel:+919664624116" target="blank">
     <img align="center" src="/github/whatsapp.png" alt="whatsapp" height="30" width="40" />
   </a>
@@ -77,14 +77,17 @@
     <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
   </summary>
      <!-- git profile count -->
+     <br>
+     <div align="left">
        ![](https://komarev.com/ghpvc/?username=Manan332211&color=0ca4a5)
+     </div>
 
 
 <div align="center">
-  <img src="/github/propease.png" alt="Github Propease" width="30%" height="40">
-    <img src="/github/mmportfolio.png" alt="Github Mmportfolio" width="30%" height="40">
+  <img src="/github/propease.png" alt="Github Propease" width="30%" height="300">
+    <img src="/github/mmportfolio.png" alt="Github Mmportfolio" width="30%" height="300">
 
-  <img src="/github/monocms.jpeg" alt="Github Monocms" width="30%" height="40">
+  <img src="/github/monocms.jpeg" alt="Github Monocms" width="30%" height="300">
 
 
 </div>
