@@ -65,30 +65,28 @@
   </a>
 </p>
 
-<div align="center">
-  <p>
-    <img align="center" src="/github/webpage.jpg" alt="manan-makwana" width="480" height="480"/>
-  </p>
-</div>
+
 
 <details open="">
   <summary>
     <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="">📈</g-emoji>
-    <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>![](https://komarev.com/ghpvc/?username=Manan332211&color=0ca4a5)
+    <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
   </summary>
     
+  ![](https://komarev.com/ghpvc/?username=Manan332211&color=0ca4a5)
 
 
 <div align="center">
-  <img src="/github/propease.png" alt="Github Propease" width="30%" height="300"> &nbsp;
-    <img src="/github/mmportfolio.png" alt="Github Mmportfolio" width="30%" height="300"> &nbsp;
-
-  <img src="/github/monocms.jpeg" alt="Github Monocms" width="30%" height="300">
-
-
+    <img src="/github/propease.png" alt="Github Propease" width="30%" height="400"> &nbsp;
+    <img src="/github/mmportfolio.png" alt="Github Mmportfolio" width="30%" height="400"> &nbsp;
+    <img src="/github/monocms.jpeg" alt="Github Monocms" width="30%" height="400">
 </div>
 
+  <div align="center">
+    <img align="center" src="/github/webpage.jpg" alt="manan-makwana" width="480" height="480"/>
+  </div>
   <br>
+
   <div align="center">
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manan332211&theme=dark&show_icons=true"/> -->
   </div>
