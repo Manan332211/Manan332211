@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 <!-- <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="100%" height="200">  -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+To+My+Github+Profile!)](https://git.io/typing-svg)
@@ -100,6 +99,8 @@
 </details>
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
 
 <hr>
 
