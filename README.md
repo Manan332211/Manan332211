@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+<!-- <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="100%" height="200">  -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+To+My+Github+Profile!)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Manan332211&color=0ca4a5)
 
 🙋‍♂️ Hi, Myself Manan Makwana <br>
 👨‍💻 I'm a Web Developer. <br>
@@ -32,7 +32,7 @@
   </a> &nbsp;&nbsp;
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="/github/wordpress-icon.svg" alt="wordpress" width="40" height="40"/>
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp;</br>
   <a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer">
     <img src="/github/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
   </a> &nbsp;&nbsp;
@@ -73,9 +73,15 @@
 
 <details open="">
   <summary>
-    <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="/github/project-plan.png">📈</g-emoji>
+    <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="">📈</g-emoji>
     <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
   </summary>
+      <img src="/github/propease.png" alt="Github Stats" width="40" height="40">
+
+  ![](https://komarev.com/ghpvc/?username=Manan332211&color=0ca4a5)
+
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manan332211&show_icons=true&theme=radical)
+
   <br>
   <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manan332211&theme=dark&show_icons=true"/>
