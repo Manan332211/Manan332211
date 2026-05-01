@@ -76,11 +76,18 @@
     <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="">📈</g-emoji>
     <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
   </summary>
-      <img src="/github/propease.png" alt="Github Stats" width="40" height="40">
+     <!-- git profile count -->
+       ![](https://komarev.com/ghpvc/?username=Manan332211&color=0ca4a5)
 
-  ![](https://komarev.com/ghpvc/?username=Manan332211&color=0ca4a5)
 
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manan332211&show_icons=true&theme=radical)
+<div align="center">
+  <img src="/github/propease.png" alt="Github Propease" width="30%" height="40">
+    <img src="/github/mmportfolio.png" alt="Github Mmportfolio" width="30%" height="40">
+
+  <img src="/github/monocms.jpeg" alt="Github Monocms" width="30%" height="40">
+
+
+</div>
 
   <br>
   <div align="center">
